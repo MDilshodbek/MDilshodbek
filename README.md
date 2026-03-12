@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - Full-stack developer focused on **production-grade applications**
-- Strong in **React, TypeScript, Node, NestJS, NextJS, GraphQL, MongoDB, Docker, PM2**
+- Strong in **React, TypeScript, Node, NestJS, NextJS, Python, GraphQL, MongoDB, Docker, PM2**
 - Passionate about clean architecture, scalable APIs, and modern UI/UX
 - Beside coding, I train with wrestling and keep an athlete mindset focused on discipline, stress resistance, consistency, and continuous improvement.
 
@@ -21,7 +21,7 @@
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,mongodb,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,mongodb,express,python,django" />
 </p>
 
 ### Tools
