@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Oscar 👋</h1>
+<h1 align="center">Hi, I’m Daniel 👋</h1>
 <h3 align="center">Full-Stack Engineer | Clean Architecture • High-Performance Systems • Scalable API Design</h3>
 
 ---
